@@ -1,0 +1,22 @@
+{
+  "name": "Practicing Three.js",
+  "description": "Practicing a webGL library three.js",
+  "main": "index.js",
+  "authors": [
+    "Purujit Negi"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "normalize-css": "^4.2.0"
+  }
+}

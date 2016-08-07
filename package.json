@@ -1,0 +1,14 @@
+{
+  "name": "webgl-threejs-practice",
+  "version": "1.0.0",
+  "description": "Practicing webGL with Three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Purujit Negi",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
